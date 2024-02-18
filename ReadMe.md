@@ -1,0 +1,15 @@
+# Properties Extra
+
+## Abstract
+
+This is a Windows file explorer extension to modify properties like file extension and creation date.
+
+!(Screenshot.png)
+
+##Alternatives
+
+I found this...
+
+"Attribute Changer" @ https://www.petges.lu/
+
+..which is a very similar tool (maybe with even more features, but not open source).
