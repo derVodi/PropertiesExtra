@@ -4,9 +4,9 @@
 
 This is a Windows file explorer extension to modify properties like file extension and creation date.
 
-!(Screenshot.png)
+![Screenshot](Screenshot.png "Screenshot")
 
-##Alternatives
+## Alternatives
 
 I found this...
 
